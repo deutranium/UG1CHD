@@ -1,0 +1,11 @@
+tweepy
+pprint
+jsonpickle
+simplejson
+plotly
+wordcloud
+numpy
+nltk
+textblob
+Pillow
+matplotlib 
